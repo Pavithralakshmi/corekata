@@ -1,5 +1,5 @@
-var1 = 'core'
-var2 = "kata"
+d = 'core'
+dd = "kata"
 
-print ("var1[0]:", var1[0])
-print ("var2[1:5]:", var2[1:5])
+print ("d[0]:", d[0])
+print ("dd[1:5]:", dd[1:5])
