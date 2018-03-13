@@ -5,6 +5,6 @@ def u(r, size):
 			if(r[j] - r[i] < y): 
 				y = r[j] - r[i]
 	return y
-r = [15, 2, 65, 70, 119]
+r = [15, 22, 65, 70, 119]
 size1 = len(r)
 print ("Maximum difference is", u(r, size1))
