@@ -5,8 +5,8 @@ while y==0:
   if num>1:
     for i in range(2,num):  
       if num%i==0:
-        print ("this is prime number",num)
+        print (" yes this is prime number",num)
         break
       else:
-        print("this is not a prime a number",num)
+        print(" no this is not a prime a number",num)
   y=int(input("ënter 0 to continue else press 1"))
