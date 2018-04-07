@@ -1,6 +1,7 @@
-lst132= []
+rrt= []
 n13= int(input('How many numbers: '))
 for n in range(n13):
     numbers = int(input('Enter number '))
-    lst.append(numbers)
-print("Maximum element in the list is :", max(lst132), "\nMinimum element in the list is :", min(lst132))
+    rt.append(numbers)
+print("Minimum element in the list is :", min(rrt))
+print("Minimum element in the list is :", max(rrt))
