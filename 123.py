@@ -1,10 +1,10 @@
-n=int(input())
-q=int(input())
+num=int(input())
+sec=int(input())
 li=[]
 a=[]
-for i in range(0,n):
+for i in range(0,num):
 	li.append(int(input()))
-for i in range(0,q):
+for i in range(0,sec):
 	s=0
 	u=int(input())
 	v=int(input())
