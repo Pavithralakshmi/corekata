@@ -1,0 +1,5 @@
+a,b=map(int,input("Enter !st line").split(' '))
+a1,b1=map(int,input("Enter 2nd line").split(' '))
+a2,b2=map(int,input("Enter 3rd line").split(' '))
+if (a==a1 and a1==a2) or(b==b1 and b1==b2) or (abs(a-a1)==abs(a1-a2) and abs(b-b1)==abs(b1-b2)):print("yes")
+else:print("no")
