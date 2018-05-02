@@ -1,2 +1,2 @@
-s=input("enter string")
-print(s+' Answer')
+r=input("enter string")
+print(r+' Answer')
