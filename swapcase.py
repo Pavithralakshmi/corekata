@@ -1,2 +1,2 @@
-a=input("enter a string")
-print(a.swapcase())
+r=input("enter a string")
+print(r.swapcase())
