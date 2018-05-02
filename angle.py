@@ -1,3 +1,3 @@
 import math
-a=int(input("enter angle"))
-print(math.sin(a))
+r=int(input("enter angle"))
+print(math.sin(r))
