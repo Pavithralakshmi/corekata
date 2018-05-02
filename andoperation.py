@@ -1,3 +1,3 @@
-a=int(input("enter a"))
-b=int(input("enter b"))
-print(a&b)
+n=int(input("enter n"))
+m=int(input("enter m"))
+print(n&m)
