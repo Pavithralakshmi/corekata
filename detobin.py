@@ -1,2 +1,2 @@
-a=int(input("enter a"))
-print(bin(a))
+x=int(input("enter x"))
+print(bin(x))
