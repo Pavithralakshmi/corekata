@@ -1,3 +1,3 @@
-a=int(input("enter a"))
-b=int(input("enter b"))
-print(a|b)
+x=int(input("enter x"))
+y=int(input("enter y"))
+print(x|y)
