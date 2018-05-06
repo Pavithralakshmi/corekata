@@ -1,0 +1,5 @@
+a=str(input("enter string"))
+b=str(input("nter string"))
+n=int(input("enter limit for a"))
+m=int(input("enter limit for b"))
+print((a*n),(b*m))
