@@ -1,3 +1,6 @@
 n=int(input("enter:"))
 m=int(input("enter:"))
-print(n*m)
+if (n>0) and (m>0):
+  print(n*m)
+else:
+  print("invalid")
